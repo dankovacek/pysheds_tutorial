@@ -1,2 +1,6 @@
 env/
 .ipynb_checkpoints/
+.git/
+data/n30w100_con_grid/
+data/n30w100_dir_grid/
+data/n45w125_con_grid/
